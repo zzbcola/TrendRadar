@@ -1,29 +1,28 @@
-/DeepSeek|梁文锋/i => DeepSeek
-
 /微软|\bMicrosoft\b/i => 微软
-
-/英伟达|\bNVIDIA\b|黄仁勋/i => 英伟达
-
 /谷歌|\bgoogle\b|\bgemini\b|\bdeepMind\b/i => 谷歌
-
 /\bchatgpt\b|\bopenai\b|\bsora\b/i => OpenAI
-
 /\bclaude\b|Anthropic/i => Claude
-
 /(?<![a-zA-Z])ai(?![a-zA-Z])/i => AI 相关
 人工智能
-
-自动驾驶
-
-机器人
-
-科技
-
-数字人
-
-+AIGC
 +编程
 +开发
 +工具
++薅羊毛
++免费
 
+
+自动驾驶
+机器人
+数字人
+GPT
+github
+高斯泼溅
+gaussian splash
+qwen
+图像生成
+视频生成
+AIGC
+comfyui
+cursor
+windsurf
 
